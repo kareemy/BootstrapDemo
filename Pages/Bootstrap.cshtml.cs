@@ -19,6 +19,6 @@ public class BootstrapModel : PageModel
 
     public void OnPost()
     {
-        _logger.LogWarning("On Post Called!!!!");
+        _logger.LogWarning("OnPost Called!!!");
     }
 }
